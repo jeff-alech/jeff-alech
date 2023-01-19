@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Jeff Alech a future Software Engineer 👋
 
  <div>
    <a href="https://github.com/jeff-alech">

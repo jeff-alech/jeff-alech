@@ -2,12 +2,12 @@
 Hi there, I'm Jeff Alech a future Software Engineer 👋
 <br><br>
  </h1>
- <img align="right" width="300" height="300" alt="sam riegel critical role nordverse" src="https://media3.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47tpx80hp1gaqladvu6xrr8t10bmiftz6s0ukyikd1&rid=giphy.gif&ct=g">
+ <img align="right" width="300" height="300" alt="sam riegel critical role nordverse" src="https://media3.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
 
  <div>
    <a href="https://github.com/jeff-alech">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeff-alech&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-alech&layout=compact&langs_count=6&theme=city_lights"/>
+   <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=jeff-alech&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-alech&layout=compact&langs_count=6&theme=city_lights"/>
 
 </div>
 <div style="display: inline_block" align = "center" ><br>

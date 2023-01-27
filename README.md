@@ -2,7 +2,7 @@
 Hi there, I'm Jeff Alech a future Software Engineer 👋
 <br><br>
  </h1>
- <img align="right" width="300" height="300" alt="sam riegel critical role nordverse" src="https://media3.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
+ <img align="right" width="250" height="250" alt="sam riegel critical role nordverse" src="https://media3.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
 
  <div>
    <a href="https://github.com/jeff-alech">

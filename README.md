@@ -35,15 +35,15 @@ Hi there, I'm Jeff Alech a future Software Engineer 👋
 const jeffAlech = {
     nickName: ["Alech", "Ju", "Jeff", "Jeffs"],
     pronouns: ["He", "Him"],
-    askMeAbout: ["web dev", "tech", "series", "food", "movies", "culture", "Avril Lavigne"],
-    whatILove: ["code", "anything marvel", "pasta", "bread", "tattoos", "traveling"],
+    askMeAbout: ["Web Dev", "Tech", "Series", "Food", "Movies", "Culture", "My Dogs"],
+    whatILove: ["Code", "Marvel", "Pasta", "Bread", "Tattoos", "Traveling"],
     knownTechnologies: ["JavaScript", "CSS", "HTML", "..."],
     currentlyStudying: {
         frontEnd: ["ReactJS"],
-        backEnd: ["NodeJS", "PostgreSQL"]
+        backEnd: ["NodeJS", "MySQL", "PHP"]
     },
     currentObjectives: {
-        programming: ["Finding my first opportunity as a FullStack Software Developer"]
+        programming: ["Finding a opportunity as a FullStack Software Developer"]
     }
 };
 ```
